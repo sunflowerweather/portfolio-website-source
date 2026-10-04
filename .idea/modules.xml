@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/portfoliowebsite.iml" filepath="$PROJECT_DIR$/portfoliowebsite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/portfoliowebsite_android.iml" filepath="$PROJECT_DIR$/android/portfoliowebsite_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/portfoliowebsite.iml" filepath="$PROJECT_DIR$/.idea/portfoliowebsite.iml" />
     </modules>
   </component>
 </project>
